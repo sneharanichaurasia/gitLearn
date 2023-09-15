@@ -3,3 +3,5 @@
 3,jyoti,12000
 4,priya,13000
 5,shashi,14000
+6,jenni,15000
+7,heet,16000
