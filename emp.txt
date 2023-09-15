@@ -1,7 +1,7 @@
-1,sneha,10000
-2,neha,11000
-3,jyoti,12000
-4,priya,13000
-5,shashi,14000
-6,jenni,15000
-7,heet,16000
+1,sneha,10000,female
+2,neha,11000,female
+3,jyoti,12000,female
+4,priya,13000,female
+5,shashi,14000,male
+6,jenni,15000,female
+7,heet,16000,male
